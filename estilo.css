@@ -1,0 +1,39 @@
+body {
+    font-family: Verdana,Tahoma, sans-serif;
+    
+}
+.titulos{
+    margin: 20px;
+    color: rgba(100, 16, 179, 0.877);
+}
+
+.principal{
+    margin: 0 auto;
+    width: 1300px;
+    left: 1300px;
+    background-color: rgba(56, 9, 100, 0.219);
+}
+
+div{
+    list-style: none;
+    background-color: rgba(56, 9, 100, 0.219);
+    margin-left: 9px;
+    margin-right: 9px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.subtitulos{
+    color: rgb(117, 34, 103);
+    padding: 7px;
+}
+.itens{
+list-style: none;
+color: rgb(117, 34, 103);
+}
+h3{
+    color:rgba(230, 191, 218, 0.76);
+}
+.sub-itens{
+    color:rgba(230, 191, 218, 0.76);
+}
